@@ -7,7 +7,7 @@
 ## General Info
 
     This is a word warm kind of game where a (n x m) letter board is given and starting
-    from an index we have to make meaningful words by adding letters from the neighbours
+    from an index we have to make meaningful words by adding letters from the neighbors
     of that index and going to the next neighbours.
 
 ## Run
